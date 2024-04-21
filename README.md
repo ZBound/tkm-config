@@ -1,4 +1,4 @@
-# mqv
+# tkm-config
 
 self-use collection of mpv config files.
 
